@@ -17,6 +17,7 @@
   align-items: center;
   border-radius: 5px;
   border: 1px solid white;
+  background-color: #4A5151;
 }
 
 /* Estilos para cada una de las box */
@@ -28,7 +29,10 @@
   height: 200px;
   border-width: 1px;
   border-style: solid;
-  color: white;
+  border: 1px solid white;
+  font-size: 2em;
+  font-weight: bold;
+ 
 }
 
 /* Estilos para el input */
@@ -44,7 +48,15 @@ input {
   margin-bottom: 20px;
 }
 
-
+.red { background-color: red; }
+.green { background-color: green; }
+.pink { background-color: pink; }
+.yellow { background-color: yellow; }
+.purple { background-color: purple; }
+.white { background-color: white; }
+.blue { background-color: blue; }
+.aqua { background-color: aqua; }
+.olive { background-color: olive; }
 
 
 
